@@ -3,5 +3,9 @@
 В настоящее время я разрабатываю учебник на основе https://github.com/layoutBox/FlexLayout
 
 
-Uploading Simulator Screen Recording - iPhone 13 Pro Max - 2022-02-28 at 15.24.45.mp4…
+
+
+
+
+https://user-images.githubusercontent.com/79970642/155967035-43640c6d-dce3-4247-ad06-63fde7a2cf96.mp4
 
